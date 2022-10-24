@@ -1,1 +1,1 @@
-# Rock-Paper-Scissors-VHDL
+# Booth-Multiplier-VHDL
